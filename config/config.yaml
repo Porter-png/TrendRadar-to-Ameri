@@ -117,12 +117,7 @@ platforms:
     name: "联合早报"
   - id: "hupu"
     name: "虎扑"
-  - id: "linkedin"
-    name: "领英"
-   - id: "indeed"
-    name: "indeed"
-   - id: "liepin"
-    name: "猎聘"
+  
  
  # === 财经投资类 ===
   - id: "wallstreetcn-news"
